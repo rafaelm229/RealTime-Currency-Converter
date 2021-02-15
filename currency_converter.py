@@ -27,10 +27,10 @@ def cryptoMoney():
     print(result)
 
 # Menu Choice
-print("----- Menu -----\n")
+print("------- Menu -------")
 print(" Choose one Option:\n")
 
-choose = int (input(" [1] Fiduciary Money \n [2] CryptoCurrency\n"))
+choose = int (input(" [1] Fiat Money \n [2] CryptoCurrency\n"))
 
 if choose == 1:
     fiatMoney()
