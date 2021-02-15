@@ -6,7 +6,9 @@
 
 - The program should just display the result by calculating the converted amount as the output. A good currency converter application should show the converted amount in real-time, which will only be possible if our program is working on real-time conversion rates.
 
-![image](/home/rafael/code/projetos/currency_converter/images/Screenshot_terminal.png)
+![image](https://github.com/rafaelm229/RealTime-Currency-Converter/blob/main/images/Screenshot_terminal.png)
+
+
 
 
 
@@ -33,6 +35,5 @@ Now in your terminal, go inside the folder and then execute the following Comman
 ```python
 python3 currency_converter.py
 ```
-
 
 
